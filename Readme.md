@@ -1,7 +1,9 @@
 # Личный проект «Седона»
 
 * Студент: [Рустам Бахритдинов](https://up.htmlacademy.ru/htmlcss/40/user/931235).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Грачев](https://htmlacademy.ru/profile/angra).
+
+* Ссылка на опубликованный проект: https://htmlacademy-htmlcss.github.io/931235-sedona-40/master/
 
 ---
 
