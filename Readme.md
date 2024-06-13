@@ -3,7 +3,7 @@
 * Студент: [Рустам Бахритдинов](https://up.htmlacademy.ru/htmlcss/40/user/931235).
 * Наставник: [Андрей Грачев](https://htmlacademy.ru/profile/angra).
 
-* Ссылка на опубликованный проект: [Седона](https://github.com/rusbakhr/931235-sedona-40)
+* Ссылка на опубликованный проект: [Седона](https://rusbakhr.github.io/931235-sedona-40/)
 
 ---
 
